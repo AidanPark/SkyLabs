@@ -19,3 +19,5 @@ val TextSecondary = Color(0xFF8E9BAC)
 val AccentBlue = Color(0xFF2D9CDB)
 
 val NavigationItem = Color(0xFF306f95)
+
+val CircularIndicatorBackground = Color(0xFF334e61)
